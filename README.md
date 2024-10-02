@@ -54,7 +54,7 @@ The dashboard includes the following visual elements:
 - **KPI Cards** highlighting key business metrics such as total sales, total shipment, total boxes , total cost and total profit.
 
 ![Bar Chart Example](total-shipment-by-boxes-bar-chart.png)  
-*Sales by Product Category*
+*total shipment by boxes*
 
 ![Line Chart Example](track-monthly-trends-of-all-the-KPI-line-chart.png)  
 *Monthly Sales Trends*
