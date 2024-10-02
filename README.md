@@ -110,7 +110,7 @@ For any questions or feedback, reach out to [Your Email]!
 
 ---
 
-**[Download Power BI Dashboard](#)**
+**[Download Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDBmOWQyMWQtMzk4ZC00MTI1LWE2YWEtZTEzNjAzOTU1NWQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 ---
 
